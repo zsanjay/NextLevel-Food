@@ -1,4 +1,4 @@
-# NextLevel-Food
+# NextLevel Food App
 Foodies Community Page
 <img width="1714" alt="Foodies Community Page" src="https://github.com/user-attachments/assets/0c107c6a-8322-409e-883b-ce0c8ceac096" />
 
@@ -10,3 +10,4 @@ Share Page
 
 Browse Meals Page
 <img width="1714" alt="Browse Meals Page" src="https://github.com/user-attachments/assets/457a46ce-4bc4-4064-8161-3ef535869cca" />
+
